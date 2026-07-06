@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class BoxVolume {
 
     public static void main(String[] args) {
+
         Scanner keyboard = new Scanner(System.in);
 
         System.out.println("Algorithm that calculates the volume of a box");

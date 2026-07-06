@@ -10,18 +10,18 @@ public class PositiveOrNegative {
 
         System.out.println("Algorithm that reads a number and checks if it's positive or negative and if it's odd or even");
         System.out.println("Enter a number");
-        double n = keyboard.nextDouble();
+        int n = keyboard.nextInt();
         if (n % 2 == 0) {
             if (n >= 0) {
-                System.out.println(n + " is a even and positive number");
+                System.out.println(n + " is an even and positive number");
             } else {
-                System.out.println(n + " is a even and negative number");
+                System.out.println(n + " is an even and negative number");
             }
         } else {
             if (n > 0) {
-                System.out.println(n + " is a odd and positive number");
+                System.out.println(n + " is an odd and positive number");
             } else {
-                System.out.println(n + " is a odd and negative number");
+                System.out.println(n + " is an odd and negative number");
             }
         }
     }
