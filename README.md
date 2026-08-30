@@ -1,1 +1,1 @@
-Hi! This repository houses my programming schoolwork. Here I'll be practicing syntax, variables, conditionals, loops, matrices, vectors, etc. Also, every algorithm is in english
+Hi! This repository houses my programming schoolwork. Here I'll be practicing syntax, variables, conditionals, loops, arrays and more. Also, every algorithm is written in English and Java!
