@@ -1,3 +1,10 @@
+/* A salesperson needs an algorithm to calculate the total price owed by a customer. The algorithm should receive a product code and the quantity purchased, then calculate and display the total price using the table below:
+
+- Product Code 5  -> Unit Price: $32.00
+- Product Code 6  -> Unit Price: $45.00
+- Product Code 2  -> Unit Price: $37.00
+- Product Code 12 -> Unit Price: $44.00 */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

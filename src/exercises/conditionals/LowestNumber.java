@@ -1,3 +1,5 @@
+/* Write an algorithm that reads 3 numbers and displays the smallest one. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

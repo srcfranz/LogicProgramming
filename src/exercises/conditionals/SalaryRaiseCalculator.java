@@ -1,3 +1,9 @@
+/* A company is granting salary increases to its employees based on their job positions. Write an algorithm that reads an employee's current salary and job code, then calculates their new salary. If the job code is not in the table, the employee receives a 40% raise. Display the old salary, the new salary, and the difference amount.
+
+- Code 101: Manager -> 10% raise
+- Code 102: Engineer -> 20% raise
+- Code 103: Technician -> 30% raise */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

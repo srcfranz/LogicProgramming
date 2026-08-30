@@ -1,3 +1,6 @@
+/* Write an algorithm that reads a number and displays whether it is even or odd.
+Hint: A number is even if the remainder of its division by 2 is zero. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

@@ -1,3 +1,6 @@
+/* Write an algorithm that calculates and displays the volume of an oil can using the following formula:
+VOLUME = 3.14159 * RADIUS * RADIUS * HEIGHT */
+
 package exercises.basics;
 
 import java.util.Scanner;

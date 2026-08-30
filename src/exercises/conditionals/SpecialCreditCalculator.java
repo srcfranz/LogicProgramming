@@ -1,3 +1,11 @@
+/* A bank is offering a special credit line to its clients based on their average account balance over the past year.
+Write an algorithm that reads a client's average balance, calculates the credit amount according to the table below, and displays the average balance along with the approved credit amount:
+
+- Average Balance: $0 to $200 -> No credit
+- Average Balance: $201 to $400 -> 20% of the average balance
+- Average Balance: $401 to $600 -> 30% of the average balance
+- Average Balance: Above $601 -> 40% of the average balance */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

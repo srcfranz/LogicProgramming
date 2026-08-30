@@ -1,3 +1,5 @@
+/* Write an algorithm that reads an integer and displays a message indicating whether the number is even or odd, and whether it is positive or negative. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

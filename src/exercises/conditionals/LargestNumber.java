@@ -1,3 +1,5 @@
+/* Write an algorithm that reads two numbers and displays the larger one. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

@@ -1,3 +1,8 @@
+/* Write an algorithm that reads an integer value in currency and calculates the minimum number of banknotes required to decompose that total amount using bills of 100, 50, 10, 5, and 1.
+Display the original amount and the count for each required banknote. */
+
+// Hi! This exercise was categorized under "Conditional Structures" by my teacher, but I managed to solve it without using conditionals.
+
 package exercises.conditionals;
 
 import java.util.Scanner;
@@ -5,7 +10,6 @@ import java.util.Scanner;
 public class BanknoteDecomposer {
 
     public static void main(String[] args) {
-        // Hi! This exercise was categorized under "Conditional Structures" by my teacher, but I managed to solve it without using conditionals.
 
         Scanner keyboard = new Scanner(System.in);
 

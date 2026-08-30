@@ -1,3 +1,6 @@
+/* Calculate the arithmetic mean of 3 grades of a student.
+Display the calculated average along with the message "Approved" if the average is 6 or higher, or "Failed" otherwise. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

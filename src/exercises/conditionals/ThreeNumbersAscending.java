@@ -1,3 +1,6 @@
+/* Write an algorithm that reads 3 numbers and displays them in ascending order.
+Account for the possibility of duplicate numbers. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

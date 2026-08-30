@@ -1,3 +1,5 @@
+/* Write an algorithm that reads two values into variables A and B, swaps their values so that A contains the original value of B and B contains the original value of A, and displays the swapped values. */
+
 package exercises.basics;
 
 import java.util.Scanner;

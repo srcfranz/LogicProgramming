@@ -1,3 +1,6 @@
+/* Write an algorithm that reads the LENGTH, WIDTH, and HEIGHT of a rectangular box, calculates its volume, and displays the result. Use the following formula:
+VOLUME = LENGTH * WIDTH * HEIGHT */
+
 package exercises.basics;
 
 import java.util.Scanner;

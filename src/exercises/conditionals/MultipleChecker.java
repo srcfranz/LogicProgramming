@@ -1,3 +1,6 @@
+/* Develop an algorithm that reads 2 values, A and B.
+Display them along with a message indicating whether they are multiples of each other ("They are multiples" or "They are not multiples"). */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

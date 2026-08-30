@@ -1,3 +1,5 @@
+/* Write an algorithm that reads two numbers and displays them in ascending order. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

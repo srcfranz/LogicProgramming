@@ -1,3 +1,7 @@
+/* Write an algorithm that reads a temperature in Fahrenheit and displays it converted to Celsius.
+Use the following conversion formula, where F is the temperature in Fahrenheit and C is the temperature in Celsius:
+C = (F - 32) * (5 / 9) */
+
 package exercises.basics;
 
 import java.util.Scanner;

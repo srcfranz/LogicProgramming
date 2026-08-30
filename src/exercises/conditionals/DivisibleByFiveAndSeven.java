@@ -1,3 +1,5 @@
+/* Write an algorithm that reads a number and determines whether it is divisible by 5 or 7. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

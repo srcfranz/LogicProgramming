@@ -1,3 +1,7 @@
+/* Write an algorithm that reads a student's three grades.
+Calculate the student's weighted average, assigning a weight of 4 to the highest grade and a weight of 3 to the other two grades.
+Display the student ID, the three grades, the calculated average, and the message "APPROVED" if the average is 5 or higher, or "FAILED" if the average is below 5. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

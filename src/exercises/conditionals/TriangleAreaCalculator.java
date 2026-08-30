@@ -1,3 +1,7 @@
+/* Develop an algorithm that reads 3 positive integer values (a, b, c) and checks whether they can form a valid triangle (remember that the sum of any two sides must be greater than the third side).
+If they form a triangle, calculate and display the area of the triangle.
+If they do not form a triangle, display the original three values. */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

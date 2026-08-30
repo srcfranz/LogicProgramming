@@ -1,3 +1,8 @@
+/* Develop an algorithm that allows a user to choose which type of average to calculate from 3 grades.
+The algorithm should read the three grades, the option chosen by the user, and then calculate and display the average based on the selection:
+1 - Arithmetic Mean
+2 - Weighted Average (weights: 3, 3, 4) */
+
 package exercises.conditionals;
 
 import java.util.Scanner;

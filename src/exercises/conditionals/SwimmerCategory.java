@@ -1,3 +1,11 @@
+/* Develop an algorithm that reads the name and age of a swimmer, then displays their name along with their age category based on the following rules:
+
+- Infant A: 5 to 7 years old
+- Infant B: 8 to 10 years old
+- Junior A: 11 to 13 years old
+- Junior B: 14 to 17 years old
+- Adult: 18 years old and older */
+
 package exercises.conditionals;
 
 import java.util.Scanner;
